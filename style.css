@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    display: flex;
+    margin: 0;
+}
+div{
+    margin-top: 1%;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
+canvas{
+    
+    width: auto;
+    height: 600px;
+    border-radius: 300px;
+    background: linear-gradient(#17095a, #020221);
+    opacity: 0.9;
+}
